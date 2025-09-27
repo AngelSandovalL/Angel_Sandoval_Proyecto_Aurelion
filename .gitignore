@@ -1,0 +1,7 @@
+# Ignore forlder where the dataset is stored and file types associated
+dataset/
+*.xlsx
+*.csv
+*.docx
+*.doc
+*.pdf
